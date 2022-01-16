@@ -4,7 +4,7 @@
 The purpose of the new analysis is well defined. (3 pt)
 
 # Results:
-
+![table](https://github.com/nsmeltz/Module_5_Challenge/blob/a97e166c9ba02bf4372efb9e79960339efb132d3/Analysis/Pyber_summary.png)
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 ## Urban
 ## Suburban
